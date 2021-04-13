@@ -1,0 +1,374 @@
+h1
+{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h6
+{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.para
+{
+    text-align: center;
+    border:solid;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.button10
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button10:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button11
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button11:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button12
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button12:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button13
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button13:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button14
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button14:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button15
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button15:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button16
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button16:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button17
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button17:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button18
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button18:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button19
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button19:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button20
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button20:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button21
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button21:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button22
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 130px;
+}
+
+.button22:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button23
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 130px;
+}
+
+.button23:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button24
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 120px;
+}
+
+.button24:hover 
+{
+    background-color: #030503;
+    color: white;
+}
+
+.button25
+{
+    background-color: #598DE2; /* Sky blue */
+    border-radius: 12px;
+    border: 2px solid #e7e7e7;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 130px;
+}
+
+.button25:hover 
+{
+    background-color: #030503;
+    color: white;
+}
